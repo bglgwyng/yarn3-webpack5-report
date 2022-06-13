@@ -1,6 +1,6 @@
 # Getting Started
 
 ```shell
-yarn workspace app install
-yarn workspace app build
+yarn install
+yarn build
 ```

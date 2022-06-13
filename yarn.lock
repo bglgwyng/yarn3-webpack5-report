@@ -637,9 +637,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"app@workspace:packages/app":
+"app@workspace:.":
   version: 0.0.0-use.local
-  resolution: "app@workspace:packages/app"
+  resolution: "app@workspace:."
   dependencies:
     "@types/axios": ^0.14.0
     "@types/node": ^17.0.41
@@ -2733,12 +2733,6 @@ __metadata:
   checksum: 87f4164e396f0171b0a3386cc1877a817f572148ee13a7e113b238e48e8a9f2f31d009a92ec38a591ff1567d9662c6b67fd8818a2dbbaed74bc26a87a2a4a9a0
   languageName: node
   linkType: hard
-
-"root-workspace-0b6124@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "root-workspace-0b6124@workspace:."
-  languageName: unknown
-  linkType: soft
 
 "safe-buffer@npm:5.1.2, safe-buffer@npm:~5.1.0, safe-buffer@npm:~5.1.1":
   version: 5.1.2
